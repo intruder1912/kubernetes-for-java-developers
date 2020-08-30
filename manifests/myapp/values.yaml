@@ -1,5 +1,5 @@
 greeting:
-  image: arungupta/greeting
+  image: intruder1912/greeting
   replicaCount: 1
 
 image:

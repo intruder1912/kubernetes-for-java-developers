@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: greeting
-        image: arungupta/skaffold-greeting
+        image: intruder1912/skaffold-greeting
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 8080

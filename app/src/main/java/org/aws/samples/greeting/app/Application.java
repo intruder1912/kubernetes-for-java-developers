@@ -1,4 +1,4 @@
-package org.aws.samples.greeting;
+package org.aws.samples.greeting.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package org.aws.samples.greeting;
+package org.aws.samples.greeting.ui;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
